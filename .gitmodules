@@ -1,0 +1,6 @@
+[submodule "copytop_front"]
+	path = copytop_front
+	url = https://github.com/Pepito94510/copytop_front
+[submodule "copytop_api"]
+	path = copytop_api
+	url = https://github.com/Pepito94510/copytop_api
